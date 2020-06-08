@@ -1,8 +1,11 @@
 # LT project
 Matrix operations based programming language
-Ajudiya Hepinkumar N. - IT003 - H1 - IT 
-Baraiya Sameep P. - IT004 - H1 - IT
+
+## Ajudiya Hepinkumar N. - IT003 - H1 - IT 
+## Baraiya Sameep P. - IT004 - H1 - IT
+
 Sem 6 IT DDIT (2019-2020)
+
 ## Installation, Compilation, and Output
 GSL installation steps (Only one time) :
 ```bash
